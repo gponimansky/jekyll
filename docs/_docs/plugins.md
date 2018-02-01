@@ -909,6 +909,7 @@ You can find a few useful plugins at the following locations:
   plugin to generate publication lists from [BibSonomy](https://www.bibsonomy.org/).
 - [github-cards](https://github.com/edward-shen/github-cards): Creates styleable Github cards for your Github projects.
 - [disqus-for-jekyll](https://github.com/kacperduras/disqus-for-jekyll): A Jekyll plugin to view the comments powered by Disqus.
+- [jekyll-html](https://github.com/kacperduras/jekyll-html): A Jekyll plugin to use HTML tags in Jekyll pages, posts and collections. 
 
 
 #### Collections
@@ -919,7 +920,7 @@ You can find a few useful plugins at the following locations:
 
 #### Other
 
-- [Analytics for Jekyll](https://github.com/hendrikschneider/jekyll-analytics) by Hendrik Schneider: An effortless way to add  various trackers like Google Analytics, Piwik, etc. to your site
+- [Analytics for Jekyll](https://github.com/hendrikschneider/jekyll-analytics) by Hendrik Schneider: An effortless way to add various trackers like Google Analytics, Matomo (formerly Piwik), mPulse, etc. to your site.
 - [ditaa-ditaa](https://github.com/tmthrgd/ditaa-ditaa) by Tom Thorogood: a drastic revision of jekyll-ditaa that renders diagrams drawn using ASCII art into PNG images.
 - [Pygments Cache Path by Raimonds Simanovskis](https://github.com/rsim/blog.rayapps.com/blob/master/_plugins/pygments_cache_patch.rb): Plugin to cache syntax-highlighted code from Pygments.
 - [Draft/Publish Plugin by Michael Ivey](https://gist.github.com/49630): Save posts as drafts.
@@ -963,6 +964,7 @@ You can find a few useful plugins at the following locations:
 - [jekyll-numbered-headings](https://github.com/muratayusuke/jekyll-numbered-headings): Adds ordered number to headings.
 - [jekyll-pre-commit](https://github.com/mpchadwick/jekyll-pre-commit): A framework for running checks against your posts using a git pre-commit hook before you publish them.
 - [jekyll-pwa-plugin](https://github.com/lavas-project/jekyll-pwa): A plugin provides PWA support for Jekyll. It generates a service worker in Jekyll build process and makes precache and runtime cache available in the runtime with Google Workbox.
+- [jekyll-algolia](https://community.algolia.com/jekyll-algolia/): Add fast and relevant search to your Jekyll site through the Algolia API.
 
 <div class="note info">
   <h5>Jekyll Plugins Wanted</h5>
